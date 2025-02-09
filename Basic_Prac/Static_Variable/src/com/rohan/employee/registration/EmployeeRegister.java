@@ -2,6 +2,9 @@ package com.rohan.employee.registration;
 
 import com.rohan.statvar.StatVar;
 
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 public class EmployeeRegister {
     int empId;
     String firstName;
@@ -22,11 +25,15 @@ public class EmployeeRegister {
     public static void main(String[] args) {
         EmployeeRegister employee1=new EmployeeRegister("Rajesh","Kumar");
         EmployeeRegister employee2=new EmployeeRegister("Rohan","Chavan");
+        Date currentDate=new Date();
+        SimpleDateFormat sdf=new SimpleDateFormat();
+
+        System.out.println(sdf.format(currentDate));
         System.out.println(employee1);
         System.out.println(employee2);
         System.out.println(StatVar.getEmployeeId());
         System.out.println(StatVar.employeeId);
-        System.out.println(StatVar.getEmployeeId());
+        System.out.println(Integer.toHexString(120912));
 
     }
 }
