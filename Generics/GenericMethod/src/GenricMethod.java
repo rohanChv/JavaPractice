@@ -3,7 +3,6 @@ public class GenricMethod {
         for(T element:inputArray){
             System.out.println(element);
         }
-
     };
     public static void main(String[] args) {
         Integer[] firstArray={1,2,3};
