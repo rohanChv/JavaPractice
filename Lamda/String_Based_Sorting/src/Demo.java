@@ -21,8 +21,8 @@ public class Demo {
         newStudentList.add(new Student(5,"Zelda",78.1,98,87,91));
         newStudentList.add(new Student(6,"Bapuji",81,45,67,71));
 
-        newStudentList.sort((a,b)->b.getName().compareTo(a.getName()));
-        newStudentList.forEach((x)-> System.out.println(x.toString()));
-
+        Comparator<Student> comp= Comparator.comparing(Student::getName).reversed();
+        newStudentList.sort(comp);
+        newStudentList.forEach(System.out::println);
     }
 }
