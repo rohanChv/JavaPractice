@@ -3,6 +3,8 @@ import java.text.SimpleDateFormat;
 import java.time.LocalDate;
 import java.time.Period;
 import java.util.Date;
+import java.util.HashSet;
+import java.util.Set;
 
 public class DateDemo {
     public static void main(String[] args) {
@@ -13,6 +15,10 @@ public class DateDemo {
         BigDecimal bigDec=BigDecimal.valueOf(23.56701);
         System.out.println(bigDec.setScale(2,BigDecimal.ROUND_HALF_UP));
 
-
+        Set<String> el=new HashSet<>();
+        el.add("MJK");
+        el.add("MJK");
+        el.add("ABC");
+        el.forEach(System.out::println);
     }
 }
