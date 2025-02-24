@@ -1,4 +1,7 @@
+import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.HashMap;
+import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class MapDemo {
@@ -19,6 +22,8 @@ public class MapDemo {
         map.entrySet().forEach((element)->{
             System.out.println("Key is = "+element.getKey()+" Value is = "+element.getValue());
         });
-        .System.out.println(map.values());
+        System.out.println(map.values());
+        List<String> list=new ArrayList<>();
+        System.out.println(map);
     }
 }
