@@ -11,6 +11,12 @@ public class Main {
         System.out.println(firstSet);
         System.out.println(firstSet.headSet(4));
         System.out.println(firstSet.tailSet(2));
+        System.out.println(firstSet.subSet(23,2));
+        System.out.println(firstSet.contains(15));
+        Iterator<Integer> it= firstSet.iterator();
+        while(it.hasNext()){
+            System.out.println(it.next());
+        }
         SortedSet<Integer>secondSet=new TreeSet<>();
         secondSet.addAll(firstSet);
         System.out.println(secondSet);
