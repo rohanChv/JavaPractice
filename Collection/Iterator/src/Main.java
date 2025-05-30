@@ -24,6 +24,9 @@ public class Main {
         for(int x:ageGroup){
             System.out.print(x+",");
         }
-        
+        String a="2.0923";
+        double a1=Double.parseDouble(a);
+        System.out.println(a1);
+
     }
 }
