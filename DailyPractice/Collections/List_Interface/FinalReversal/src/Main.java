@@ -8,7 +8,8 @@ public class Main {
         list.add(new Employee("Suresh","Ram",3));
         list.add(new Employee("Mithilesh","Ram",4));
         list.add(new Employee("Simran","Ram",5));
-        list.add(new Employee("Host","Ram",6));
+        list.add(new Employee("Host",
+                "Ram",6));
         list.add(new Employee("Ghost","Ram",7));
         System.out.println("Employee List ->");
         list.printAll();
