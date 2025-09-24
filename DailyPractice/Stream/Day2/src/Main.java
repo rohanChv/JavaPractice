@@ -38,5 +38,8 @@ public class Main {
         }
         Boolean cond=list.stream().allMatch(e-> e.getLocation().equalsIgnoreCase("Pune"));
         System.out.println(cond);
+        List<Integer> intL=new ArrayList<>(Arrays.asList(1,2,3,4,5,6,7,8,9));
+        Map<Boolean,List<Integer>> fMap=intL.stream().collect(Collectors.partitioningBy(e->e%2==0,Collectors.toCollection(LinkedList::new)));
+        System.out.println(fMap);
     }
 }
