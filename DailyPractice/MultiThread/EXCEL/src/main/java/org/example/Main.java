@@ -27,7 +27,7 @@ public class Main {
         System.out.print("GENERATING DATA");
         long time=System.currentTimeMillis();
         List<Employee> emp=new ArrayList<>();
-        for (int i = 1; i <= 1000000; i++) {
+        for (int i = 1; i <= 500000; i++) {
             emp.add(new Employee("RAJkjhkjbjbjbjbjbjbjbjbjbjbjbjbjbjbjbjhbjhbjbjbjbhjbjknknlkmluliouoi".concat(Integer.toString(i)),"ROBObbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbT","asjchaisnxiansxiansxianixsnaisxniasnx",(Math.random()*10000)));
         }
         System.out.println("...GENERATED "+emp.size());
@@ -42,18 +42,13 @@ public class Main {
             cell.setCellValue(s);
         }
         ExecutorService ex= Executors.newFixedThreadPool(10);
+
             emp.forEach(e->{
-                ex.execute(() -> {
-                    Lock lock = new ReentrantLock();
-                    lock.lock();
                     SXSSFRow row1 = sheet.createRow(emp.indexOf(e));
                     row1.createCell(0).setCellValue(e.getName());
                     row1.createCell(1).setCellValue(e.getSurname());
                     row1.createCell(2).setCellValue(e.getProject());
                     row1.createCell(3).setCellValue(e.getSalary());
-                });
-
-                //
             });
             FileOutputStream fos= null;
             try {
