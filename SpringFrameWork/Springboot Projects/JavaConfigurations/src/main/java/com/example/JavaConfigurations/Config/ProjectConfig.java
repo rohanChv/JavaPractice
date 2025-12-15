@@ -20,7 +20,7 @@ public class ProjectConfig {
 
     @Bean
     public PaymentService getPaymentServiceBean(@Qualifier("upi") PaymentInterface payment){
-        PaymentService ps=new PaymentService(env);
+        PaymentService ps=new PaymentService();
         ps.setPayment(payment);
         return ps;
     }

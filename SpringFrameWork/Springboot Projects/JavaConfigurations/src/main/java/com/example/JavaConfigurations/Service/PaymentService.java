@@ -6,16 +6,7 @@ import org.springframework.core.env.Environment;
 
 public class PaymentService {
     PaymentInterface payment;
-    @Autowired
-    private final Environment env;
-
-    @Value("${url}")
-    String s;
-
-    public PaymentService(Environment env) {
-        this.env = env;
-    }
-
+    
 
     public PaymentInterface getPayment() {
         return payment;
@@ -23,8 +14,8 @@ public class PaymentService {
 
     public void executePayment() {
         payment.executePayment();
-
-        System.out.println("URL->"+s);
+        Environment env = ;
+        System.out.println("URL->"+env.getProperty("application.url"));
     }
 
     public void setPayment(PaymentInterface payment) {
