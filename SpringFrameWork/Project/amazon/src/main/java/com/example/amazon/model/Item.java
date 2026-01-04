@@ -24,6 +24,8 @@ public class Item {
     @Column(name="item_expiry_date")
     private Date itemExpirydate;
 
+    @Version
+    private Integer version;
 
     public long getId() {
         return id;
