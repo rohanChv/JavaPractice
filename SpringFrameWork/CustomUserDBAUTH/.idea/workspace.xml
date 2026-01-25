@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c7c838e-7329-438d-b67b-bdc329526802" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/BruteForcePallindrome/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/BruteForcePallindrome/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/BruteForcePallindrome/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/BruteForcePallindrome/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/BruteForcePallindrome/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/BruteForcePallindrome/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/BruteForcePallindrome/BruteForcePallindrome.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/BruteForcePallindrome/src/BFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/LongestSubString/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/LongestSubString/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/LongestSubString/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/LongestSubString/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/LongestSubString/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/LongestSubString/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/LongestSubString/LongestSubString.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/LongestSubString/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/Pallindromic/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/Pallindromic/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/Pallindromic/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/Pallindromic/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/Pallindromic/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/Pallindromic/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/Pallindromic/Pallindromic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/Pallindromic/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/WithoutRepeatingRev/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/WithoutRepeatingRev/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/WithoutRepeatingRev/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/WithoutRepeatingRev/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/WithoutRepeatingRev/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/WithoutRepeatingRev/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/WithoutRepeatingRev/WithoutRepeatingRev.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DailyPractice/String Medium/WithoutRepeatingRev/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/amazon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project/amazon/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/SecurityPractice/service/CustomUserDetails.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="38Mz6IFTTcucJd1CljkwnTstZ71" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SecurityPracticeApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/rohangch/Documents/JavaPractice/SpringFrameWork/Security/BasicAuthFlow",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="CustomUserDBAUTH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="CustomUserDBAUTH" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c7c838e-7329-438d-b67b-bdc329526802" name="Changes" comment="" />
+      <created>1768624050466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768624050466</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

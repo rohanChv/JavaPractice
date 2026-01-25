@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="735ceea4-c1cc-4b13-8059-7fc7ea44b088" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BruteForcePallindrome/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BruteForcePallindrome/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BruteForcePallindrome/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BruteForcePallindrome/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BruteForcePallindrome/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BruteForcePallindrome/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BruteForcePallindrome/BruteForcePallindrome.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BruteForcePallindrome/src/BFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestSubString/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestSubString/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestSubString/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestSubString/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestSubString/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestSubString/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestSubString/LongestSubString.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestSubString/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pallindromic/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pallindromic/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pallindromic/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pallindromic/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pallindromic/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pallindromic/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pallindromic/Pallindromic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pallindromic/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WithoutRepeatingRev/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WithoutRepeatingRev/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WithoutRepeatingRev/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WithoutRepeatingRev/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WithoutRepeatingRev/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WithoutRepeatingRev/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WithoutRepeatingRev/WithoutRepeatingRev.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WithoutRepeatingRev/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringFrameWork/Project/amazon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SpringFrameWork/Project/amazon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringFrameWork/Project/amazon/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SpringFrameWork/Project/amazon/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="37usNhUs7MkYalhC7GmIu2lhnvN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MAin.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/rohangch/Documents/JavaPractice/DailyPractice/String Medium/StringWithoutRepeat"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="735ceea4-c1cc-4b13-8059-7fc7ea44b088" name="Changes" comment="" />
+      <created>1767764256219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767764256219</updated>
+    </task>
+    <servers />
+  </component>
+</project>
