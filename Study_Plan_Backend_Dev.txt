@@ -10,8 +10,10 @@ SQL Plan
 
 ---Springboot Plan
 1. simple springboot app. exclude tomcat add Jetty
-2. commandline runner,application runner
-3. Property injection @value, @configurationProperties,@propertysource
+2. commandline runner,application runner, Bean Life Cycle, Autowired internal working
+3. Property injection @value, @configurationProperties
+4.HTTP Codes,response Entity
+5. Request Parameters(@RequestParam,@PathVariable)
 4. DTO, serialize deserialze
 5.api versioning
 6.validation
