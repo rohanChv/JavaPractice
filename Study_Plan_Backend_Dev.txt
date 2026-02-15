@@ -4,9 +4,10 @@ SQL Plan
 3. Order by ,group by
 4. window functions(row number, rank,denserank())
 5. stored Procedure, User defined functions
-6. Indexing
+6. Indexing,normalization
 7. SQL vs NoSQL
 8. DDL , DML
+
 
 ---Springboot Plan
 1. simple springboot app. exclude tomcat add Jetty
