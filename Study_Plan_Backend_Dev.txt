@@ -17,4 +17,6 @@ SQL Plan
 5. Request Parameters(@RequestParam,@PathVariable)
 4. DTO, serialize deserialze
 5.api versioning
-6.validation
+6.validation,exception Handling, Without Autowired bean inject
+--JPA
+1. hibernate config and Basic CRUD
