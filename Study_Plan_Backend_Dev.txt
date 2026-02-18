@@ -20,3 +20,5 @@ SQL Plan
 6.validation,exception Handling, Without Autowired bean inject
 --JPA
 1. hibernate config and Basic CRUD
+2. Hibernate Batch Config, Dirty check Performance Improvements
+3. Hibernate Cache
