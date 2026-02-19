@@ -32,4 +32,12 @@ public class ProductController {
         s.close();
     }
 
+    @GetMapping("/getTheProductDTO")
+    public List<Product> getListDTO(){
+        HibernateUtil util=new HibernateUtil();
+        Session s=util.getSessionFactory().openSession();
+        String fecthQuery="SELECT new com.example.demo.model.ProductDTO(p.productName,p.price)"+"FROM Product p";
+        return s.createQuery(fecthQuery).list();
+    }
+
 }
