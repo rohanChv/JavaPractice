@@ -22,3 +22,5 @@ SQL Plan
 1. hibernate config and Basic CRUD
 2. Hibernate Batch Config, Dirty check Performance Improvements
 3. Hibernate Cache
+4. JPA relations OnetoOne, OneToMany, ManytoOne, ManytoMany, cascade
+5. Multi DB configurations in JPA
