@@ -18,9 +18,10 @@ SQL Plan
 4. DTO, serialize deserialze
 5.api versioning
 6.validation,exception Handling, Without Autowired bean inject
---JPA
+--JPAs
 1. hibernate config and Basic CRUD
 2. Hibernate Batch Config, Dirty check Performance Improvements
 3. Hibernate Cache
 4. JPA relations OnetoOne, OneToMany, ManytoOne, ManytoMany, cascade
-5. Multi DB configurations in JPA
+5. Multi DB configurations in JPA,Pagination,DTO Projection
+6.transaction, Locking(Concurrency Controls)
