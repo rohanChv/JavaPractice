@@ -5,12 +5,7 @@ import com.example.JPA_FINAL.model.AccessCard;
 import com.example.JPA_FINAL.model.Employee;
 import com.example.JPA_FINAL.repo.AccessRepo;
 import com.example.JPA_FINAL.repo.EmployeeRepo;
-import com.fasterxml.jackson.annotation.JacksonAnnotationsInside;
-import org.hibernate.criterion.Order;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.autoconfigure.data.web.SpringDataWebProperties;
-import org.springframework.data.domain.PageRequest;
-import org.springframework.data.domain.Sort;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -42,6 +37,12 @@ public class EmployeeController {
     @GetMapping("/GetData/{offset}/{limit}")
     public List<Employee> getEmpData(@PathVariable("offset") Integer off,@PathVariable("limit")Integer limit){
        return employeeRepo.findAll();
+    }
+
+    @DeleteMapping("/remove/{id}")
+    public void getEmpData(@PathVariable("id") Integer id){
+        Employee emp=employeeRepo.findById(id).get();
+        employeeRepo.delete(emp);
     }
 
 }
